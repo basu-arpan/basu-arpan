@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="mailto:arpannbasu2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/arpan-basu-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://https://basu-arpan.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/arpan-basu-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://basu-arpan.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -45,15 +45,14 @@ I like projects with a real, testable outcome: an app that runs, a dashboard tha
 - Classifies candidates into 5 career domains (Data Science, Web Dev, Android, iOS, UI/UX) and drives personalized skill/course recommendations
 - Scores resumes 0–100 on section completeness with itemized, actionable feedback
 - MySQL-backed admin dashboard with interactive Plotly analytics and user feedback capture
-- 🔗 [Live Demo](#) · [Source](https://github.com/basu-arpan/ResumeAnalyser)
+- 🔗[Source](https://github.com/basu-arpan/ResumeAnalyser)
 
 **[FixnRent](https://basu-arpan.github.io/FixnRent)** — Full-stack furniture rental e-commerce platform
 `HTML` `CSS` `JavaScript` `Flask` `MySQL`
 - Complete platform architected from MySQL schema to frontend, supporting guest browsing and authenticated rentals across 50+ products
 - Bcrypt-hashed login and session management — zero auth vulnerabilities found in peer code review
 - End-to-end rental flow manually tested for cart, session-expiry, and order-confirmation edge cases
-- 🔗 [Live Demo](#) · [Source](https://basu-arpan.github.io/FixnRent)
-
+- 🔗[Live Demo](https://basu-arpan.github.io/FixnRent/)
 #### 📊 Data Analytics
 
 **[Customer Behavior & Trends Analytics](https://github.com/basu-arpan/customer-behavior-analytics)** — end-to-end analytics pipeline
@@ -63,7 +62,7 @@ I like projects with a real, testable outcome: an app that runs, a dashboard tha
 - Wrote window-function and cohort-segmentation SQL to classify customers as new, returning, or loyal
 - Identified young adults as the top revenue-driving segment via cohort and discount-rate analysis
 - Built an interactive Power BI dashboard with dynamic slicers and KPI cards
-- 🔗 [Live](#) · [Source](https://github.com/basu-arpan/customer-behavior-analytics)
+- 🔗[Source](https://github.com/basu-arpan/customer-behavior-analytics)
 
 **[Personal Fitness Analytics — Polar Wearable Data](https://github.com/basu-arpan/Personal-Fitness-Analytics-Polar-Wearable-Data)** — wearable sensor data pipeline
 `Python` `Pandas` `SciPy`
@@ -75,13 +74,12 @@ I like projects with a real, testable outcome: an app that runs, a dashboard tha
 ---
 
 
-
-<!-- <p align="center"> -->
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=basu-arpan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basu-arpan&layout=compact&theme=tokyonight&hide_border=true" /> -->
-<!-- </p> -->
-
 <!-- <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=basu-arpan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basu-arpan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=basu-arpan&theme=tokyonight&hide_border=true" />
 </p> -->
 
