@@ -52,7 +52,7 @@ I like projects with a real, testable outcome: an app that runs, a dashboard tha
 - Complete platform architected from MySQL schema to frontend, supporting guest browsing and authenticated rentals across 50+ products
 - Bcrypt-hashed login and session management — zero auth vulnerabilities found in peer code review
 - End-to-end rental flow manually tested for cart, session-expiry, and order-confirmation edge cases
-- 🔗[Live Demo](https://basu-arpan.github.io/FixnRent/)
+- 🔗[Source](https://basu-arpan.github.io/FixnRent/)
 #### 📊 Data Analytics
 
 **[Customer Behavior & Trends Analytics](https://github.com/basu-arpan/customer-behavior-analytics)** — end-to-end analytics pipeline
